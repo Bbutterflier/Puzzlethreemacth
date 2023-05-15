@@ -65,18 +65,7 @@ Now you can tweak the `GAME SETTINGS` GameObject to change players, objectives, 
 
 ![Game Settinngs GameObject](settings.png)
 
-## Question? Join the discord
 
-Join the [official Flipon discord](https://discord.gg/7jFZ2fC) if you have any question about the game or the code, it's your best chance to get a quick answer. 
-
-## Contributing
-
-The gameplay code is this repository is the same than in the game.
-If you want to make a significant modification or addition, I may or may not add it in the final game. If so, I'll indeed properly credits your work.
-
-There's a `.DotSettings` file for Rider/Omnisharp if you want to follow the coding style of the prokject.
-
-Note: I use as much Gitmoji as possible my commit messages.
 
 
 
